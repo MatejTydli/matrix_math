@@ -1,5 +1,5 @@
 //! This crate provides Matrix struct for math caculation, like multiplying or adding.
-//! This crate doesn't have functions for graphics programing. Don't use it for graphics programing.
+//! This crate doesn't have functions for graphics programing.
 
 /// using operators overloading
 use std::ops;
