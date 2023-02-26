@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Matrix","Only rectangle Matrices are supported.   "]]};
